@@ -396,7 +396,7 @@ Maybe in some parts of your team, you want to prioritise availability – that 
 
 ## Consistency vs Availability
 
-![cosmos](https://anharveypresfiles.blob.core.windows.net/anharvey-presfiles/cosmos.mp4)
+![cosmos](https://anharveypresentations.blob.core.windows.net/presentationfiles/cosmos.mp4)
 
 @snap[south-east text-right]
 <span style="font-size: 20px">Andrew Harvey | @mootpointer</span>

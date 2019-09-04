@@ -1,3 +1,4 @@
 layout: center-left
 footnote: "Andrew Harvey"
 theme-override: assets/style.css
+theme-headline: ["Source Sans Pro", "black", "uppercase"]
